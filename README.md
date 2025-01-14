@@ -17,7 +17,7 @@ Frontend: http://localhost:4200
 
 Backend API: http://localhost:3000/api/news
 
-Manual Setup Instructions
+# Manual Setup Instructions
 ## 1. Core Application (Python)
 
 Navigate to core-app:
