@@ -6,7 +6,7 @@ This is a real-time news system built with Python, NestJS, and Angular. The syst
 # Installation and Setup Instructions
 Clone the Repository
 
-git clone https://github.com/yotkes/real-time-news-system.git
+git clone https://github.com/yotkes/real-time-news.git
 cd real-time-news-system
 Run the Application Using Docker Compose
 Ensure Docker and Docker Compose are installed.
